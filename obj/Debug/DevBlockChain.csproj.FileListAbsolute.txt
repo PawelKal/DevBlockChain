@@ -1,0 +1,6 @@
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\bin\Debug\DevBlockChain.exe.config
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\bin\Debug\DevBlockChain.exe
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\bin\Debug\DevBlockChain.pdb
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\obj\Debug\DevBlockChain.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\obj\Debug\DevBlockChain.exe
+C:\Users\Paweł\Documents\Visual Studio Projects\DevBlockChain\DevBlockChain\obj\Debug\DevBlockChain.pdb
